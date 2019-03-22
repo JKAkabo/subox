@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'bucket.apps.BucketConfig'
+    # 'bucket.apps.BucketConfig'
 ]
 
 MIDDLEWARE = [
