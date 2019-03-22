@@ -12,6 +12,8 @@ django = "*"
 channels = "*"
 pillow = "*"
 channels-redis = "*"
+gunicorn = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.6"
