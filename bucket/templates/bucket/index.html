@@ -25,7 +25,9 @@
     </head>
 
     <body>
-
+        {% for field in form %}
+            {{ field }}
+        {% endfor %}
     </body>
 
     </html>
